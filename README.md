@@ -1,0 +1,1 @@
+# spotify-pc-color-override
