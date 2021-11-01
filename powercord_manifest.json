@@ -1,0 +1,8 @@
+{
+    "name": "Spotify Override",
+    "description": "Change spotify color without modifying plugin",
+    "version": "1.0",
+    "author": "pandahacker#0001",
+    "theme": "app.scss",
+    "license": "CC BY-NC-SA 4.0"
+}
